@@ -1,0 +1,50 @@
+@import "../fonts/stylesheet.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+  font-family: 'Oswald', sans-serif;
+  scroll-behavior: smooth;
+}
+
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 36px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #313131;
+}
+
+.descr {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
+  text-align: center;
+  color: rgba(115, 115, 115, 0.74);
+  margin: 22px 0 72px;
+}
+
+
+
+@import "header";
+@import "hero";
+@import "heading";
+@import "some";
+@import "lightbox";
+@import "contact";
+@import "footer";
+@import "media";
