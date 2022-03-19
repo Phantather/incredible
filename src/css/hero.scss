@@ -49,3 +49,15 @@
     }
   }
 }
+
+@media (max-width: 375px) {
+  .hero__title {
+    font-size: 45px;
+  }
+}
+
+@media (max-width: 375px) {
+  .hero__title {
+    font-size: 36px;
+  }
+}

@@ -54,3 +54,36 @@
     }
   }
 }
+
+@media (max-width: 567px) {
+  .contact__form {
+    width: 527px;
+  }
+}
+
+
+@media (max-width: 425px) {
+  .contact__form {
+    width: 100%;
+  }
+  .contact__form-block {
+    flex-direction: column;
+    row-gap: 15px;
+  }
+  .contact__form-input {
+    width: 100%;
+  }
+}
+
+@media (max-width: 375px) {
+  .contact__form {
+    width: 100%;
+  }
+  .contact__form-block {
+    flex-direction: column;
+    row-gap: 15px;
+  }
+  .contact__form-input {
+    width: 100%;
+  }
+}

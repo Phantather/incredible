@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92bc1014-6d1b-40be-b2b4-484bf534d6e5" name="Default Changelist" comment="" />
+    <list default="true" id="92bc1014-6d1b-40be-b2b4-484bf534d6e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/heading.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/heading.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lightbox.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lightbox.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/some.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/some.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +28,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="26VIjnZwFrwLBFKoKF2xWTmQMqP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,8 +40,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../work/Maksat/вт(18-00)/react/bascket-shop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
   <component name="RecentsManager">
@@ -51,6 +67,7 @@
       <workItem from="1647518305203" duration="25000" />
       <workItem from="1647581808618" duration="4231000" />
       <workItem from="1647586961159" duration="38000" />
+      <workItem from="1647667816767" duration="2014000" />
     </task>
     <servers />
   </component>
@@ -62,10 +79,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1647502558416" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1647586997923">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1647668189170">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1647586997923" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1647668189170" />
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1647518328160" />
   </component>
 </project>

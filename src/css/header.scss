@@ -53,3 +53,10 @@
     }
   }
 }
+
+@media screen and (max-width: 576px) {
+  .header__nav {
+    flex-direction: column;
+    row-gap: 15px;
+  }
+}

@@ -1,4 +1,5 @@
 @import "../fonts/stylesheet.css";
+@import "media";
 
 * {
   margin: 0;
@@ -39,6 +40,23 @@
 }
 
 
+@media screen and (max-width: 576px) {
+  .header__nav {
+    flex-direction: column;
+    row-gap: 15px;
+  }
+
+  .lightbox__row {
+      row-gap: 20px;
+      flex-wrap: wrap;
+    }
+  .lightbox__card {
+      width: calc(50% - 10px);
+    }
+
+
+}
+
 
 @import "header";
 @import "hero";
@@ -47,4 +65,3 @@
 @import "lightbox";
 @import "contact";
 @import "footer";
-@import "media";

@@ -32,3 +32,18 @@
     }
   }
 }
+
+
+@media screen and (max-width: 576px) {
+
+  .heading__row {
+    row-gap: 20px;
+    flex-wrap: wrap;
+  }
+  .heading__card {
+    width: calc(50% - 10px);
+    text-align: center;
+  }
+
+
+}

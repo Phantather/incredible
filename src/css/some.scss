@@ -3,6 +3,7 @@
   background-color: #CF404D;
   &__content {
     display: flex;
+    align-items: center;
     justify-content: space-between;
   }
   &__title {
@@ -24,5 +25,29 @@
     font-size: 16px;
     line-height: 21px;
     color: #FFFFFF;
+  }
+}
+
+
+@media (max-width: 425px) {
+  .some__title {
+    font-size: 20px;
+    line-height: 31px;
+  }
+
+}
+
+@media (max-width: 375px) {
+  .some__title {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 320px) {
+  .some__title {
+    font-size: 15px;
+  }
+  .some__btn {
+    padding:  0 11px;
   }
 }

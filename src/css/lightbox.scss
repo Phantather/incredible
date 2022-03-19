@@ -12,3 +12,17 @@
     }
   }
 }
+
+@media screen and (max-width: 576px) {
+
+  .lightbox__row {
+    row-gap: 20px;
+    flex-wrap: wrap;
+  }
+  .lightbox__card {
+    width: calc(50% - 10px);
+    text-align: center;
+  }
+
+
+}
